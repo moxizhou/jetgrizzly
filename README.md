@@ -6,12 +6,12 @@
 
 ## Table of Contents
 
-1. [Usage](#Usage)
+1. [Team](#team)
 1. [Development](#development)
     1. [Installing Dependencies](#installing-dependencies)
     1. [Architecture](#architecture)
-    1. [Tasks](#tasks)
-1. [Team](#team)
+    1. [Getting Started](#getting-started)
+    1. [Known Bugs](#known-bugs)
 1. [Contributing](#contributing)
 
 ## Team
@@ -71,11 +71,6 @@ More info: [Architecture](https://github.com/jetgrizzly/jetgrizzly/blob/master/d
 - If you insert an invalid link, the server will crash and you will have to restart it. Our current regex filter checks to see if a link is a youtube url, but not if it's a valid one. 
 - If the next video in queue is the same as the current video, it will not update
 - Chatroom doesn't scroll to bottom as a default
-
-
-### Roadmap
-
-View the project roadmap [here](LINK_TO_PROJECT_ISSUES)
 
 
 ## Contributing
